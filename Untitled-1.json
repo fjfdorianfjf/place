@@ -1,0 +1,13 @@
+{
+    "faction": "cubers",
+    "templates": [
+      {
+        "name": "WCA",
+        "sources": [
+          "https://github.com/fjfdorianfjf/place/blob/main/IMG_3406.PNG"
+        ],
+        "x": 1315,
+        "y": 455
+      }
+    ]
+}
